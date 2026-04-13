@@ -1,0 +1,92 @@
+[
+  {
+    "name": "rohi",
+    "email": "rohi27013@gmail.com",
+    "phone": "+919344009635",
+    "subject": "General Inquiry",
+    "message": "i want to check its workimg or not",
+    "service_type": "",
+    "id": 1,
+    "timestamp": "2025-12-06T18:58:52.320011"
+  },
+  {
+    "name": "helllo",
+    "email": "hi@gmail.com",
+    "phone": "+919344009635",
+    "subject": "General Inquiry",
+    "message": "hii",
+    "service_type": "",
+    "id": 2,
+    "timestamp": "2025-12-06T19:05:12.158629"
+  },
+  {
+    "name": "qe3354",
+    "email": "hkh93121@gmail.com",
+    "phone": "5687696979809",
+    "subject": "General Inquiry",
+    "message": "trhgvn vn",
+    "service_type": "",
+    "id": 3,
+    "timestamp": "2025-12-08T20:59:02.015563"
+  },
+  {
+    "name": "hii",
+    "email": "rohi27013@gmail.com",
+    "phone": "+919344009635",
+    "subject": "Quote Request",
+    "message": "hii",
+    "service_type": "Distribution Transformers",
+    "id": 4,
+    "timestamp": "2025-12-08T21:32:20.498370"
+  },
+  {
+    "name": "hii",
+    "email": "rohi8482@gmail.com",
+    "phone": "+919344009635",
+    "subject": "General Inquiry",
+    "message": "hello MF",
+    "service_type": "",
+    "id": 5,
+    "timestamp": "2025-12-09T19:02:52.950856"
+  },
+  {
+    "name": "rohith",
+    "email": "rohi77725@gmail.com",
+    "phone": "76993254540",
+    "subject": "General Inquiry",
+    "message": "hhello",
+    "service_type": "",
+    "id": 6,
+    "timestamp": "2025-12-12T19:19:41.037770"
+  },
+  {
+    "name": "hii",
+    "email": "weiuu@gmail.com",
+    "phone": "984748674698",
+    "subject": "General Inquiry",
+    "message": "kuerhsmjr bgj",
+    "service_type": "Distribution Transformers",
+    "id": 7,
+    "timestamp": "2026-01-04T10:15:23.777233"
+  },
+  {
+    "name": "rgrg",
+    "email": "harishk23bai024@skasc.ac.in",
+    "phone": "6564575675767",
+    "subject": "General Inquiry",
+    "message": "ghgh",
+    "service_type": "Distribution Transformers",
+    "id": 8,
+    "timestamp": "2026-01-21T20:24:21.812689"
+  },
+  {
+    "name": "rohith",
+    "email": "rohi27013@gmail.com",
+    "phone": "+919344009635",
+    "subject": "Quote Request",
+    "message": "hello sir",
+    "service_type": "Power Transformers",
+    "id": 9,
+    "timestamp": "2026-02-06T19:18:24.521602"
+  }
+]

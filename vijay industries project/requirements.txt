@@ -1,0 +1,16 @@
+Flask==3.0.0
+flask-cors==4.0.0
+Werkzeug==3.0.1
+gunicorn==21.2.0
+
+# Database dependencies
+SQLAlchemy==2.0.23
+Flask-SQLAlchemy==3.1.1
+
+# Optional: For email functionality (uncomment if needed)
+# Flask-Mail==0.9.1
+# python-dotenv==1.0.0
+
+# Optional: For PostgreSQL in production (uncomment if needed)
+# psycopg2-binary==2.9.9
+
